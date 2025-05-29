@@ -12,6 +12,15 @@ st.title("📊 DashAnalytix Agentic Analysis (via API)")
 
 months = st.slider("Select how many months of data to analyze:", min_value=1, max_value=36, value=18)
 
+# Dynamically calculate years and remaining months
+years = months // 12
+remaining_months = months % 12
+
+if years > 0:
+    st.info(f"🕒 Selected Duration: {months} months ({years} year{'s' if years > 1 else ''} and {remaining_months} month{'s' if remaining_months != 1 else ''})")
+else:
+    st.info(f"🕒 Selected Duration: {months} month{'s' if months != 1 else ''}")
+
 
 # Read JSON files from disk (assuming files are in same folder or provide full path)
 def load_json_file(filename):
