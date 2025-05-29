@@ -44,7 +44,7 @@ if st.button("Run Agent Analysis"):
     with st.spinner("🔍 Analyzing KPIs"):
         try:
             payload = { "months": months , "api_key": api_key  }  
-            response = requests.post("http://localhost:5002/analyze", json={
+            response = requests.post("insightgeneration-production.up.railway.app/analyze", json={
                     "add_data_g1": add_data_g1,
                     "add_data_g2": add_data_g2,
                     "kpi_data_g1": kpi_data_g1,
