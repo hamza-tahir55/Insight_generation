@@ -46,10 +46,6 @@ if add_data_g1 is not None and add_data_g2 is not None and kpi_data_g1 is not No
 
 
 if st.button("Run Agent Analysis"):
-    with st.spinner("Powering up agents..."):
-            time.sleep(1)  # simulate some preparation time
-    with st.spinner("Sending data to backend..."):
-            time.sleep(1)  # simulate some analysis before sending
     with st.spinner("🔍 Analyzing KPIs"):
         try:
             payload = { "months": months , "api_key": api_key  }  
