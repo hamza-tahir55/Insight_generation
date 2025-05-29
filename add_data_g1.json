@@ -1,0 +1,904 @@
+{
+    "financial_data": {
+        "income": {
+            "message": "Success",
+            "tag": "Income's transactional",
+            "data": {
+                "tp_invoices": [
+                    {
+                        "duration": "Feb 21",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Customer A",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                                "date": "Feb 21",
+                                "count_inv": 2,
+                                "inv_total": 88912.0,
+                                "cn_total": null,
+                                "total_sum": 88912.0,
+                                "is_new": false
+                            }
+                        ]
+                    }
+                ],
+                "cp_invoices": [
+                    {
+                        "duration": "Feb 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Customer A",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                                "date": "Feb 20",
+                                "count_inv": 4,
+                                "inv_total": 38104.0,
+                                "total_sum": 38104.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer B",
+                                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                                "date": "Feb 20",
+                                "count_inv": 1,
+                                "inv_total": 60.0,
+                                "total_sum": 60.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Mar 21",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Hamza Tahir",
+                                "invoice_contact__contact_id": "e40fea09-2449-41cc-a251-6efb60cb1bf3",
+                                "date": "Mar 21",
+                                "count_inv": 1,
+                                "inv_total": 14000.0,
+                                "total_sum": 14000.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Farhan Malik",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45dm",
+                                "date": "Mar 21",
+                                "count_inv": 1,
+                                "inv_total": 28768.0,
+                                "total_sum": 28768.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer B",
+                                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a994",
+                                "date": "Mar 21",
+                                "count_inv": 1,
+                                "inv_total": 56343.0,
+                                "total_sum": 56343.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Apr 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Customer A",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                                "date": "Apr 20",
+                                "count_inv": 1,
+                                "inv_total": 41326.0,
+                                "total_sum": 41326.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer B",
+                                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                                "date": "Apr 20",
+                                "count_inv": 1,
+                                "inv_total": 19127.0,
+                                "total_sum": 19127.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "jul 24",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Customer A",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                                "date": "Apr 20",
+                                "count_inv": 1,
+                                "inv_total": 6000.0,
+                                "total_sum": 6000.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer B",
+                                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                                "date": "Apr 20",
+                                "count_inv": 1,
+                                "inv_total": 6186.0,
+                                "total_sum": 6186.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "May 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Customer A",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                                "date": "May 20",
+                                "count_inv": 1,
+                                "inv_total": 19437.0,
+                                "total_sum": 19437.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer B",
+                                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                                "date": "May 20",
+                                "count_inv": 1,
+                                "inv_total": 31605.0,
+                                "total_sum": 31605.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Hamza Maqsood",
+                                "invoice_contact__contact_id": "7c15fdce-4c6e-402f-9498-1d187d4d01d8",
+                                "date": "May 20",
+                                "count_inv": 1,
+                                "inv_total": 250.0,
+                                "total_sum": 250.0,
+                                "is_new": true
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Jun 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Customer A",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                                "date": "Jun 20",
+                                "count_inv": 2,
+                                "inv_total": 21055.0,
+                                "total_sum": 21055.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer B",
+                                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                                "date": "Jun 20",
+                                "count_inv": 1,
+                                "inv_total": 31864.0,
+                                "total_sum": 31864.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Jul 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Customer A",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                                "date": "Jul 20",
+                                "count_inv": 1,
+                                "inv_total": 22830.0,
+                                "total_sum": 22830.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer B",
+                                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                                "date": "Jul 20",
+                                "count_inv": 1,
+                                "inv_total": 33746.0,
+                                "total_sum": 33746.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Aug 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Customer A",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                                "date": "Aug 20",
+                                "count_inv": 2,
+                                "inv_total": 28683.0,
+                                "total_sum": 28683.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer B",
+                                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                                "date": "Aug 20",
+                                "count_inv": 1,
+                                "inv_total": 44700.0,
+                                "total_sum": 44700.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Sep 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Customer A",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                                "date": "Sep 20",
+                                "count_inv": 2,
+                                "inv_total": 34488.0,
+                                "total_sum": 34488.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer B",
+                                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                                "date": "Sep 20",
+                                "count_inv": 1,
+                                "inv_total": 25417.0,
+                                "total_sum": 25417.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Oct 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Customer A",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                                "date": "Oct 20",
+                                "count_inv": 2,
+                                "inv_total": 36856.0,
+                                "total_sum": 36856.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer B",
+                                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                                "date": "Oct 20",
+                                "count_inv": 1,
+                                "inv_total": 27548.0,
+                                "total_sum": 27548.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Nov 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Customer A",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                                "date": "Nov 20",
+                                "count_inv": 3,
+                                "inv_total": 31275.0,
+                                "total_sum": 31075.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer B",
+                                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                                "date": "Nov 20",
+                                "count_inv": 1,
+                                "inv_total": 39726.0,
+                                "total_sum": 39726.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Dec 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Customer A",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                                "date": "Dec 20",
+                                "count_inv": 8,
+                                "inv_total": 58985.0,
+                                "total_sum": 58985.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer B",
+                                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                                "date": "Dec 20",
+                                "count_inv": 2,
+                                "inv_total": 36912.0,
+                                "total_sum": 36912.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Jan 21",
+                        "value": [
+                            {
+                                "invoice_contact__name": "Customer C",
+                                "invoice_contact__contact_id": "e40fea09-2449-41cc-a251-6efb60cb1bf2",
+                                "date": "Jan 21",
+                                "count_inv": 1,
+                                "inv_total": 41841.0,
+                                "total_sum": 41841.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer A",
+                                "invoice_contact__contact_id": "3a904097-bf5b-4362-92c4-60996a7c45de",
+                                "date": "Jan 21",
+                                "count_inv": 5,
+                                "inv_total": 8400.0,
+                                "total_sum": 8400.0,
+                                "is_new": false
+                            },
+                            {
+                                "invoice_contact__name": "Customer B",
+                                "invoice_contact__contact_id": "00ef510d-5514-4773-baa0-55c22057a990",
+                                "date": "Jan 21",
+                                "count_inv": 1,
+                                "inv_total": 33611.0,
+                                "total_sum": 33611.0,
+                                "is_new": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "cost_of_sales": {
+            "message": "Success",
+            "data": {
+                "tag": "Cost of Sale's transactional",
+                "tp_invoices": [
+                    {
+                        "duration": "Feb 21",
+                        "value": [
+                            {
+                                "invoice_contact__name": "V",
+                                "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+                                "date": "Feb 21",
+                                "count_inv": 1,
+                                "inv_total": 52660.0,
+                                "cn_total": null,
+                                "total_sum": 52660.0,
+                                "is_new": false
+                            }
+                        ]
+                    }
+                ],
+                "cp_invoices": [
+                    {
+                        "duration": "Feb 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "V",
+                                "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+                                "date": "Feb 20",
+                                "count_inv": 1,
+                                "inv_total": 23451.0,
+                                "total_sum": 23451.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Mar 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "V",
+                                "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+                                "date": "Mar 20",
+                                "count_inv": 1,
+                                "inv_total": 27549.0,
+                                "total_sum": 27549.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Apr 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "V",
+                                "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+                                "date": "Apr 20",
+                                "count_inv": 1,
+                                "inv_total": 38494.0,
+                                "total_sum": 38494.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "May 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "V",
+                                "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+                                "date": "May 20",
+                                "count_inv": 1,
+                                "inv_total": 30735.0,
+                                "total_sum": 30735.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Jun 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "V",
+                                "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+                                "date": "Jun 20",
+                                "count_inv": 1,
+                                "inv_total": 30632.0,
+                                "total_sum": 30632.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Jul 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "V",
+                                "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+                                "date": "Jul 20",
+                                "count_inv": 1,
+                                "inv_total": 33003.0,
+                                "total_sum": 33003.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Aug 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "V",
+                                "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+                                "date": "Aug 20",
+                                "count_inv": 1,
+                                "inv_total": 44786.0,
+                                "total_sum": 44786.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Sep 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "V",
+                                "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+                                "date": "Sep 20",
+                                "count_inv": 1,
+                                "inv_total": 33920.0,
+                                "total_sum": 33920.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Oct 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "V",
+                                "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+                                "date": "Oct 20",
+                                "count_inv": 1,
+                                "inv_total": 36337.0,
+                                "total_sum": 36337.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Nov 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "V",
+                                "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+                                "date": "Nov 20",
+                                "count_inv": 1,
+                                "inv_total": 41302.0,
+                                "total_sum": 41302.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Dec 20",
+                        "value": [
+                            {
+                                "invoice_contact__name": "V",
+                                "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+                                "date": "Dec 20",
+                                "count_inv": 1,
+                                "inv_total": 53977.0,
+                                "total_sum": 53977.0,
+                                "is_new": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": "Jan 21",
+                        "value": [
+                            {
+                                "invoice_contact__name": "V",
+                                "invoice_contact__contact_id": "9642df4d-7b6e-4983-8dc0-e355b3644857",
+                                "date": "Jan 21",
+                                "count_inv": 1,
+                                "inv_total": 44257.0,
+                                "total_sum": 44257.0,
+                                "is_new": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "expenses": {
+            "message": "Success",
+            "tag": "Expense's transactional",
+            "data": {
+                "accounts": [
+                    {
+                        "account_name": "Testing Depreciation",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "ZA-HM Depreciation non",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "depreciation 4",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "ZA Depreciation",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Technology & Content",
+                        "tp": 10388.0,
+                        "cp": 9325.0
+                    },
+                    {
+                        "account_name": "Other operating income (Expense)",
+                        "tp": 290.0,
+                        "cp": 70.0
+                    },
+                    {
+                        "account_name": "Other Income (expense)",
+                        "tp": -646.0,
+                        "cp": 406.0
+                    },
+                    {
+                        "account_name": "Provision for Income Tax",
+                        "tp": 984.0,
+                        "cp": 744.0
+                    },
+                    {
+                        "account_name": "New Depreciation Test acc",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Equity-method investment activity, net of tax",
+                        "tp": -6.0,
+                        "cp": 104.0
+                    },
+                    {
+                        "account_name": "Fulfillment",
+                        "tp": 13806.0,
+                        "cp": 11531.0
+                    },
+                    {
+                        "account_name": "Advertising & Marketing 2",
+                        "tp": 4345.0,
+                        "cp": 4828.0
+                    },
+                    {
+                        "account_name": "Bank Fees",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Cleaning",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Consulting & Accounting",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Depreciation new account",
+                        "tp": 110.0,
+                        "cp": 20.0
+                    },
+                    {
+                        "account_name": "Depreciation",
+                        "tp": 135.97,
+                        "cp": 155.96
+                    },
+                    {
+                        "account_name": "New Depreciation Account",
+                        "tp": 12.0,
+                        "cp": 10.0
+                    },
+                    {
+                        "account_name": "Entertainment",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Freight & Courier",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "General & Admin Expense",
+                        "tp": 1580.0,
+                        "cp": 1452.0
+                    },
+                    {
+                        "account_name": "Insurance",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Interest Expense",
+                        "tp": 403.0,
+                        "cp": 402.0
+                    },
+                    {
+                        "account_name": "Legal expenses",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Light, Power, Heating",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Motor Vehicle Expenses",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Office Expenses",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Test Dep Actuals",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Printing & Stationery",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Rent",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Repairs and Maintenance",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Wages and Salaries",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Superannuation",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Subscriptions",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Telephone & Internet",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Travel - National",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Travel - International",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Bank Revaluations",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Unrealised Currency Gains",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Realised Currency Gains",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "new expense",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "New Depreciation",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Depreciation 2",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "Depreciation 3",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    },
+                    {
+                        "account_name": "COGS 2",
+                        "tp": 0.0,
+                        "cp": 0.0
+                    }
+                ],
+                "monthly_values": {
+                    "tp_value": [
+                        {
+                            "duration": "Feb 21",
+                            "value": 31401.97
+                        }
+                    ],
+                    "cp_values": [
+                        {
+                            "duration": "Feb 20",
+                            "value": 14356.0
+                        },
+                        {
+                            "duration": "Mar 20",
+                            "value": 16333.0
+                        },
+                        {
+                            "duration": "Apr 20",
+                            "value": 20278.0
+                        },
+                        {
+                            "duration": "May 20",
+                            "value": 18888.0
+                        },
+                        {
+                            "duration": "Jun 20",
+                            "value": 19874.0
+                        },
+                        {
+                            "duration": "Jul 20",
+                            "value": 20962.0
+                        },
+                        {
+                            "duration": "Aug 20",
+                            "value": 24974.0
+                        },
+                        {
+                            "duration": "Sep 20",
+                            "value": 22512.0
+                        },
+                        {
+                            "duration": "Oct 20",
+                            "value": 24757.0
+                        },
+                        {
+                            "duration": "Nov 20",
+                            "value": 26934.0
+                        },
+                        {
+                            "duration": "Dec 20",
+                            "value": 30557.0
+                        },
+                        {
+                            "duration": "Jan 21",
+                            "value": 29047.96
+                        }
+                    ]
+                }
+            }
+        },
+        "cogs_breakdown": {
+            "message": "Success",
+            "data": [
+                {
+                    "tp_values": 52661.0,
+                    "cp_values": 44257.0,
+                    "account_name": "Cost of Goods Sold",
+                    "value": 8404.0
+                },
+                {
+                    "tp_values": 0.0,
+                    "cp_values": 0.0,
+                    "account_name": "COGS 1",
+                    "value": 0.0
+                },
+                {
+                    "tp_values": 0.0,
+                    "cp_values": 0.0,
+                    "account_name": "COGS 10",
+                    "value": 0.0
+                },
+                {
+                    "tp_values": 0.0,
+                    "cp_values": 0.0,
+                    "account_name": "COGS 3",
+                    "value": 0.0
+                },
+                {
+                    "tp_values": 0.0,
+                    "cp_values": 0.0,
+                    "account_name": "COGS 4",
+                    "value": 0.0
+                },
+                {
+                    "tp_values": 0.0,
+                    "cp_values": 0.0,
+                    "account_name": "COGS 5",
+                    "value": 0.0
+                },
+                {
+                    "tp_values": 0.0,
+                    "cp_values": 0.0,
+                    "account_name": "COGS 6",
+                    "value": 0.0
+                },
+                {
+                    "tp_values": 0.0,
+                    "cp_values": 0.0,
+                    "account_name": "COGS 7",
+                    "value": 0.0
+                },
+                {
+                    "tp_values": 0.0,
+                    "cp_values": 0.0,
+                    "account_name": "COGS 8",
+                    "value": 0.0
+                },
+                {
+                    "tp_values": 0.0,
+                    "cp_values": 0.0,
+                    "account_name": "COGS 9",
+                    "value": 0.0
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "customer_collection_days": {
+        "tag": "Customer Collection Days Analysis",
+        "tp_list": [
+            {
+                "total_paid_amount": 104678.4,
+                "sum_product": 1151462.4,
+                "sum_product_due": -1325193.6,
+                "formula_invoice_day": 11.0,
+                "formula_dues_day": -12.7,
+                "contact_id_name": "Customer A",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 11.0
+            },
+            {
+                "total_paid_amount": 781.2,
+                "sum_product": 8599.2,
+                "sum_product_due": -781.2,
+                "formula_invoice_day": 11.0,
+                "formula_dues_day": -1.0,
+                "contact_id_name": "Bank",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 11.0
+            },
+            {
+                "total_paid_amount": 162.0,
+                "sum_product": 1782.0,
+                "sum_product_due": -1620.0,
+                "formula_invoice_day": 11.0,
+                "formula_dues_day": -10.0,
+                "contact_id_name": "Investment Bank",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 11.0
+            }
+        ],
+        "cp_list": [
+            {
+                "total_paid_amount": 50209.2,
+                "sum_product": 451882.8,
+                "sum_product_due": -1305439.2,
+                "formula_invoice_day": 9.0,
+                "formula_dues_day": -26.0,
+                "contact_id_name": "Customer C",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 9.0
+            },
+            {
+                "total_paid_amount": 43312.8,
+                "sum_product": 588284.4,
+                "sum_product_due": -941180.4,
+                "formula_invoice_day": 13.6,
+                "formula_dues_day": -21.7,
+                "contact_id_name": "Customer B",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 13.6
+            },
+            {
+                "total_paid_amount": 242.4,
+                "sum_product": 2424.0,
+                "sum_product_due": 86294.4,
+                "formula_invoice_day": 10.0,
+                "formula_dues_day": 356.0,
+                "contact_id_name": "Investment Bank",
+                "scaled_avg_due_day": 10.0,
+                "scaled_avg_invoice_day": 0.0
+            }
+        ]
+    },
+    "supplier_payment_days": {
+        "tp_list": [
+            {
+                "total_paid_amount": 53102.4,
+                "sum_product": 166430.4,
+                "sum_product_due": -843405.6,
+                "formula_invoice_day": 3.1,
+                "formula_dues_day": -15.9,
+                "contact_id_name": "V",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 3.1
+            },
+            {
+                "total_paid_amount": 18811.2,
+                "sum_product": 207271.2,
+                "sum_product_due": -302875.2,
+                "formula_invoice_day": 11.0,
+                "formula_dues_day": -16.1,
+                "contact_id_name": "Misc Vendors",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 11.0
+            },
+            {
+                "total_paid_amount": 12465.6,
+                "sum_product": 124656.0,
+                "sum_product_due": -199449.6,
+                "formula_invoice_day": 10.0,
+                "formula_dues_day": -16.0,
+                "contact_id_name": "Freelancer",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 10.0
+            },
+            {
+                "total_paid_amount": 5214.0,
+                "sum_product": 20856.0,
+                "sum_product_due": -83424.0,
+                "formula_invoice_day": 4.0,
+                "formula_dues_day": -16.0,
+                "contact_id_name": "Marketing Experts",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 4.0
+            },
+            {
+                "total_paid_amount": 984.0,
+                "sum_product": 18696.0,
+                "sum_product_due": -23616.0,
+                "formula_invoice_day": 19.0,
+                "formula_dues_day": -24.0,
+                "contact_id_name": "Tax Consultants",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 19.0
+            },
+            {
+                "total_paid_amount": 483.6,
+                "sum_product": 5803.2,
+                "sum_product_due": -11122.8,
+                "formula_invoice_day": 12.0,
+                "formula_dues_day": -23.0,
+                "contact_id_name": "Investment Bank",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 12.0
+            }
+        ],
+        "cp_list": [
+            {
+                "total_paid_amount": 51140.4,
+                "sum_product": 1278510.0,
+                "sum_product_due": -818246.4,
+                "formula_invoice_day": 25.0,
+                "formula_dues_day": -16.0,
+                "contact_id_name": "V",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 25.0
+            },
+            {
+                "total_paid_amount": 15873.0,
+                "sum_product": 122033.4,
+                "sum_product_due": -417631.8,
+                "formula_invoice_day": 7.7,
+                "formula_dues_day": -26.3,
+                "contact_id_name": "Misc Vendors",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 7.7
+            },
+            {
+                "total_paid_amount": 13198.4,
+                "sum_product": 319024.0,
+                "sum_product_due": 2563705.6,
+                "formula_invoice_day": 24.2,
+                "formula_dues_day": 194.2,
+                "contact_id_name": "Marketing Experts",
+                "scaled_avg_due_day": 24.2,
+                "scaled_avg_invoice_day": 0.0
+            },
+            {
+                "total_paid_amount": 11190.0,
+                "sum_product": 212610.0,
+                "sum_product_due": -268560.0,
+                "formula_invoice_day": 19.0,
+                "formula_dues_day": -24.0,
+                "contact_id_name": "Freelancer",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 19.0
+            },
+            {
+                "total_paid_amount": 848.0,
+                "sum_product": 15264.0,
+                "sum_product_due": -14312.0,
+                "formula_invoice_day": 18.0,
+                "formula_dues_day": -16.9,
+                "contact_id_name": "Tax Consultants",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 18.0
+            },
+            {
+                "total_paid_amount": 482.4,
+                "sum_product": 5306.4,
+                "sum_product_due": -7718.4,
+                "formula_invoice_day": 11.0,
+                "formula_dues_day": -16.0,
+                "contact_id_name": "Investment Bank",
+                "scaled_avg_due_day": 0,
+                "scaled_avg_invoice_day": 11.0
+            }
+        ]
+    }
+    }
