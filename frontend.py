@@ -10,7 +10,7 @@ api_key = st.sidebar.text_input("Enter your API Key", type="password")
 
 st.title("📊 DashAnalytix Agentic Analysis (via API)")
 
-months = st.slider("Select how many months of data to analyze:", min_value=1, max_value=60, value=12)
+months = st.slider("Select how many months of data to analyze:", min_value=1, max_value=36, value=18)
 
 
 # Read JSON files from disk (assuming files are in same folder or provide full path)
