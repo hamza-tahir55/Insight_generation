@@ -4,3 +4,4 @@ flask
 python-dateutil
 IPython
 phidata
+openai
