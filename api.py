@@ -177,6 +177,10 @@ def analyze():
                 - You must Explain your analysis through supporting transactional data. This will be the reason for the change / trend mentioned in your analysis.
                 - Dont use Sterics inless its a heading
 
+            6. Report
+            - Provide a clean, structured summary of insights across all KPIs 
+            - Costumer Collection Days and Supplier Payment Days summary in tabular form.
+
             **Final Rules:**
             - Do not reference any KPI outside this set
             - Use only provided fields
